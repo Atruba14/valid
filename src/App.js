@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h3>this is new start in extreme ranch</h3>
+      <h3>this is new start in extreme ranch</h3>
     </div>
   );
 }
